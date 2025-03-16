@@ -49,6 +49,7 @@ public class Parser {
         String commandWord = parts[0].toLowerCase();
         String arguments = parts.length > 1 ? parts[1] : "";
 
+
         logger.fine("Command word: " + commandWord + ", Arguments: " + arguments);
 
         Command parsedCommand;
@@ -173,6 +174,11 @@ public class Parser {
             return new InvalidCommand("Invalid expense command: " + e.getMessage());
         }
     }
+
+
+    // TODO Parses arguments into a ListCommand with filtering capabilities
+
+    // TODO Parses arguments into a SearchCommand.
 
     /**
      * Parses arguments into a FilterCommand.
