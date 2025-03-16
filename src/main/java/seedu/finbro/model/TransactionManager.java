@@ -102,4 +102,13 @@ public class TransactionManager {
     public void clearTransactions() {
         transactions.clear();
     }
+
+    /**
+     * Returns the number of transactions.
+     *
+     * @return The number of transactions
+     */
+    public int getTransactionCount() {
+        return transactions.size();
+    }
 }
