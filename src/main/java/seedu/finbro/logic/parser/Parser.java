@@ -52,7 +52,7 @@ public class Parser {
         case "clear" -> parseClearCommand(arguments);
         case "exit" -> new ExitCommand();
         case "help" -> new HelpCommand();
-        case "list" -> new ListCommand();
+        case "list" -> new ListCommand();           //TODO add filtering capabilities under parseListCommand(arguments)
         default -> new UnknownCommand(commandWord);
         };
     }
@@ -127,12 +127,9 @@ public class Parser {
         }
     }
 
-    // TODO Parses arguments into a ListCommand.
-
-    // TODO: Parses arguments into a DeleteCommand.
+    // TODO Parses arguments into a ListCommand with filtering capabilities
 
     // TODO Parses arguments into a SearchCommand.
-
     /**
      * Parses arguments into a FilterCommand with specified start and end date
      * @param args Command arguments
