@@ -22,159 +22,331 @@ help     | Show this help message
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New income added: [Income] $3000.00 - Monthly salary [primary]
+Enter amount:
+____________________________________________________________
+Enter description:
+____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New income added: [Income] $3000.00 - Monthly salary [Work, Primary]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New income added: [Income] $500.50 - Freelance project [design]
+Enter amount:
+____________________________________________________________
+Enter description:
+____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New income added: [Income] $500.50 - Freelance project [Side-hustle, Design]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New income added: [Income] $1200.00 - Tax refund [annual]
+Enter amount:
+____________________________________________________________
+Enter description:
+____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New income added: [Income] $1200.00 - Tax refund [Annual]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Food] $25.50 - Lunch with colleagues [work]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Food] $25.50 - Lunch with colleagues [Work]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Shopping] $75.00 - New shoes [clothing]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Shopping] $75.00 - New shoes [Clothing]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Bills] $150.20 - Electricity bill [utilities]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Transport] $10.80 - Bus fare [commute]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Transport] $10.80 - Bus fare [Transport, Commute]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Entertainment] $45.99 - Movie tickets [leisure]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Food] $120.00 - Groceries [essential]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Food] $120.00 - Groceries [Essential]
 ____________________________________________________________
 Enter command word:
+> ____________________________________________________________
+Please enter the start date in the format yyyy-mm-dd. (Leave blank to show all transactions. You can choose the number of transactions to show after this prompt.)
+> ____________________________________________________________
+Enter number of transactions to list. (Leave blank to show all transactions.)
 > ____________________________________________________________
 Here are your transactions:
-1. [Income] $3000.00 - Monthly salary [primary] (Date created: <DATE>)
-2. [Income] $500.50 - Freelance project [design] (Date created: <DATE>)
-3. [Income] $1200.00 - Tax refund [annual] (Date created: <DATE>)
-4. [Expense][Food] $25.50 - Lunch with colleagues [work] (Date created: <DATE>)
-5. [Expense][Shopping] $75.00 - New shoes [clothing] (Date created: <DATE>)
-6. [Expense][Bills] $150.20 - Electricity bill [utilities] (Date created: <DATE>)
-7. [Expense][Transport] $10.80 - Bus fare [commute] (Date created: <DATE>)
-8. [Expense][Entertainment] $45.99 - Movie tickets [leisure] (Date created: <DATE>)
-9. [Expense][Food] $120.00 - Groceries [essential] (Date created: <DATE>)
+1. [Income] $2000.00 - New job payment [work] (Date created: <DATE>)
+2. [Expense][Food] $30.00 - Dinner [Dining-out] (Date created: <DATE>)
+3. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
+4. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
+5. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
+6. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
+7. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
+8. [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities] (Date created: <DATE>)
+9. [Expense][Transport] $10.80 - Bus fare [Transport, Commute] (Date created: <DATE>)
+10. [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure] (Date created: <DATE>)
+11. [Expense][Food] $120.00 - Groceries [Essential] (Date created: <DATE>)
 ____________________________________________________________
 Enter command word:
+> ____________________________________________________________
+Please enter the start date in the format yyyy-mm-dd. (Leave blank to show all transactions. You can choose the number of transactions to show after this prompt.)
+> ____________________________________________________________
+Enter number of transactions to list. (Leave blank to show all transactions.)
 > ____________________________________________________________
 Here are your transactions:
-1. [Income] $3000.00 - Monthly salary [primary] (Date created: <DATE>)
-2. [Income] $500.50 - Freelance project [design] (Date created: <DATE>)
-3. [Income] $1200.00 - Tax refund [annual] (Date created: <DATE>)
-4. [Expense][Food] $25.50 - Lunch with colleagues [work] (Date created: <DATE>)
-5. [Expense][Shopping] $75.00 - New shoes [clothing] (Date created: <DATE>)
+1. [Income] $2000.00 - New job payment [work] (Date created: <DATE>)
+2. [Expense][Food] $30.00 - Dinner [Dining-out] (Date created: <DATE>)
+3. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
+4. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
+5. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Enter keyword or string to search:
+>____________________________________________________________
 
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-[Expense][Bills] $150.20 - Electricity bill [utilities]
+Enter keyword or string to search:
+>____________________________________________________________
+[Expense][Bills] $150.20 - Electricity bill [Monthly-utilities]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Please enter the start date in the format yyyy-mm-dd.
+> ____________________________________________________________
+Please enter the end date in the format yyyy-mm-dd. (Leave blank to show transactions up to current date.)
+> ____________________________________________________________
+____________________________________________________________
 There are no transactions between Mar 1 2025 and Mar 15 2025.
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-Current Balance: $4,273.01
-Total Income: $4,700.50
-Total Expenses: $427.49
+Current Balance: $6,243.01
+Total Income: $6,700.50
+Total Expenses: $457.49
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Please enter the month (1-12). (Leave blank for current month)
+> ____________________________________________________________
+Please enter the year. (Leave blank for current year)
+> ____________________________________________________________
+____________________________________________________________
 Financial Summary for March 2025:
 
-Total Income: $4700.50
-Total Expenses: $427.49
+Total Income: $6700.50
+Total Expenses: $457.49
 
 Top Expense Categories:
-1. Bills: $150.20
-2. Food: $145.50
+1. Food: $175.50
+2. Bills: $150.20
 3. Shopping: $75.00
 
 Tags Summary:
-1. primary: $3000.00
-2. annual: $1200.00
-3. design: $500.50
-4. utilities: $150.20
-5. essential: $120.00
-6. clothing: $75.00
-7. leisure: $45.99
-8. work: $25.50
-9. commute: $10.80
+1. Work: $3025.50
+2. Primary: $3000.00
+3. work: $2000.00
+4. Annual: $1200.00
+5. Design: $500.50
+6. Side-hustle: $500.50
+7. Monthly-utilities: $150.20
+8. Essential: $120.00
+9. Clothing: $75.00
+10. Weekend-leisure: $45.99
+11. Dining-out: $30.00
+12. Commute: $10.80
+13. Transport: $10.80
 
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Please enter the month (1-12). (Leave blank for current month)
+> ____________________________________________________________
+Please enter the year. (Leave blank for current year)
+> ____________________________________________________________
+____________________________________________________________
 Financial Summary for March 2025:
 
-Total Income: $4700.50
-Total Expenses: $427.49
+Total Income: $6700.50
+Total Expenses: $457.49
 
 Top Expense Categories:
-1. Bills: $150.20
-2. Food: $145.50
+1. Food: $175.50
+2. Bills: $150.20
 3. Shopping: $75.00
 
 Tags Summary:
-1. primary: $3000.00
-2. annual: $1200.00
-3. design: $500.50
-4. utilities: $150.20
-5. essential: $120.00
-6. clothing: $75.00
-7. leisure: $45.99
-8. work: $25.50
-9. commute: $10.80
+1. Work: $3025.50
+2. Primary: $3000.00
+3. work: $2000.00
+4. Annual: $1200.00
+5. Design: $500.50
+6. Side-hustle: $500.50
+7. Monthly-utilities: $150.20
+8. Essential: $120.00
+9. Clothing: $75.00
+10. Weekend-leisure: $45.99
+11. Dining-out: $30.00
+12. Commute: $10.80
+13. Transport: $10.80
 
 ____________________________________________________________
 Enter command word:
+> ____________________________________________________________
+Enter a number or range to delete. (e.g., '1' or '2-5')
 > ____________________________________________________________
 Deleted transactions:
-- [Income] $1200.00 - Tax refund [annual]
+- [Income] $3000.00 - Monthly salary [Work, Primary]
 ____________________________________________________________
 Enter command word:
+> ____________________________________________________________
+Please enter the start date in the format yyyy-mm-dd. (Leave blank to show all transactions. You can choose the number of transactions to show after this prompt.)
+> ____________________________________________________________
+Enter number of transactions to list. (Leave blank to show all transactions.)
 > ____________________________________________________________
 Here are your transactions:
-1. [Income] $3000.00 - Monthly salary [primary] (Date created: <DATE>)
-2. [Income] $500.50 - Freelance project [design] (Date created: <DATE>)
-3. [Expense][Food] $25.50 - Lunch with colleagues [work] (Date created: <DATE>)
-4. [Expense][Shopping] $75.00 - New shoes [clothing]  (Date created: <DATE>)
-5. [Expense][Bills] $150.20 - Electricity bill [utilities] (Date created: <DATE>)
-6. [Expense][Transport] $10.80 - Bus fare [commute] (Date created: <DATE>)
-7. [Expense][Entertainment] $45.99 - Movie tickets [leisure] (Date created: <DATE>)
-8. [Expense][Food] $120.00 - Groceries [essential] (Date created: <DATE>)
+1. [Income] $2000.00 - New job payment [work] (Date created: <DATE>)
+2. [Expense][Food] $30.00 - Dinner [Dining-out] (Date created: <DATE>)
+3. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
+4. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
+5. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
+6. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
+7. [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities] (Date created: <DATE>)
+8. [Expense][Transport] $10.80 - Bus fare [Transport, Commute] (Date created: <DATE>)
+9. [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure] (Date created: <DATE>)
+10. [Expense][Food] $120.00 - Groceries [Essential] (Date created: <DATE>)
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Enter keyword or string to search:
+>____________________________________________________________
 
 ____________________________________________________________
 Enter command word:
+> ____________________________________________________________
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
 > ____________________________________________________________
 New expense added: [Expense][Food] $32.50 - Coffee and snacks [work]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Enter amount:
+____________________________________________________________
+Enter description:
+____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
 New income added: [Income] $450.00 - Part-time gig [side-hustle]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Warning: This will delete all your data. Are you sure? (y/n)
+____________________________________________________________
+____________________________________________________________
 Are you sure you want to clear all data? This action cannot be undone.
 Type 'y' to confirm, 'n' to cancel.
 ____________________________________________________________
@@ -184,6 +356,9 @@ Clear operation cancelled.
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Warning: This will delete all your data. Are you sure? (y/n)
+____________________________________________________________
+____________________________________________________________
 Are you sure you want to clear all data? This action cannot be undone.
 Type 'y' to confirm, 'n' to cancel.
 ____________________________________________________________
@@ -193,14 +368,39 @@ All data has been cleared.
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Enter amount:
+____________________________________________________________
+Enter description:
+____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
 New income added: [Income] $2000.00 - New job payment [work]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-New expense added: [Expense][Food] $30.00 - Dinner [dining-out]
+Enter amount:
+> ____________________________________________________________
+Enter description:
+> ____________________________________________________________
+Please select a category by entering its corresponding index
+0 - OTHERS
+1 - FOOD
+2 - TRANSPORT
+3 - SHOPPING
+4 - BILLS
+5 - ENTERTAINMENT
+> ____________________________________________________________
+Enter up to 3 tags (separated by space or comma), or press Enter to skip:
+> ____________________________________________________________
+New expense added: [Expense][Food] $30.00 - Dinner [Dining-out]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
+Please enter the month (1-12). (Leave blank for current month)
+> ____________________________________________________________
+Please enter the year. (Leave blank for current year)
+> ____________________________________________________________
+____________________________________________________________
 Financial Summary for March 2025:
 
 Total Income: $2000.00
@@ -211,7 +411,7 @@ Top Expense Categories:
 
 Tags Summary:
 1. work: $2000.00
-2. dining-out: $30.00
+2. Dining-out: $30.00
 
 ____________________________________________________________
 Enter command word:
@@ -222,9 +422,6 @@ Total Expenses: $30.00
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-Goodbye! Thank you for using FinBro.
-____________________________________________________________
-____________________________________________________________
 Thank you for using FinBro. Your finances are now in better shape!
 Goodbye!
 ____________________________________________________________
