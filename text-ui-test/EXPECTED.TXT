@@ -165,17 +165,15 @@ Please enter the start date in the format yyyy-mm-dd. (Leave blank to show all t
 Enter number of transactions to list. (Leave blank to show all transactions.)
 > ____________________________________________________________
 Here are your transactions:
-1. [Income] $2000.00 - New job payment [work] (Date created: <DATE>)
-2. [Expense][Food] $30.00 - Dinner [Dining-out] (Date created: <DATE>)
-3. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
-4. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
-5. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
-6. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
-7. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
-8. [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities] (Date created: <DATE>)
-9. [Expense][Transport] $10.80 - Bus fare [Transport, Commute] (Date created: <DATE>)
-10. [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure] (Date created: <DATE>)
-11. [Expense][Food] $120.00 - Groceries [Essential] (Date created: <DATE>)
+1. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
+2. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
+3. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
+4. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
+5. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
+6. [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities] (Date created: <DATE>)
+7. [Expense][Transport] $10.80 - Bus fare [Transport, Commute] (Date created: <DATE>)
+8. [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure] (Date created: <DATE>)
+9. [Expense][Food] $120.00 - Groceries [Essential] (Date created: <DATE>)
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
@@ -184,11 +182,11 @@ Please enter the start date in the format yyyy-mm-dd. (Leave blank to show all t
 Enter number of transactions to list. (Leave blank to show all transactions.)
 > ____________________________________________________________
 Here are your transactions:
-1. [Income] $2000.00 - New job payment [work] (Date created: <DATE>)
-2. [Expense][Food] $30.00 - Dinner [Dining-out] (Date created: <DATE>)
-3. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
-4. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
-5. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
+1. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
+2. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
+3. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
+4. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
+5. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
@@ -213,9 +211,9 @@ There are no transactions between Mar 1 2025 and Mar 15 2025.
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
-Current Balance: $6,243.01
-Total Income: $6,700.50
-Total Expenses: $457.49
+Current Balance: $4,273.01
+Total Income: $4,700.50
+Total Expenses: $427.49
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
@@ -226,28 +224,26 @@ Please enter the year. (Leave blank for current year)
 ____________________________________________________________
 Financial Summary for March 2025:
 
-Total Income: $6700.50
-Total Expenses: $457.49
+Total Income: $4700.50
+Total Expenses: $427.49
 
 Top Expense Categories:
-1. Food: $175.50
-2. Bills: $150.20
+1. Bills: $150.20
+2. Food: $145.50
 3. Shopping: $75.00
 
 Tags Summary:
 1. Work: $3025.50
 2. Primary: $3000.00
-3. work: $2000.00
-4. Annual: $1200.00
-5. Design: $500.50
-6. Side-hustle: $500.50
-7. Monthly-utilities: $150.20
-8. Essential: $120.00
-9. Clothing: $75.00
-10. Weekend-leisure: $45.99
-11. Dining-out: $30.00
-12. Commute: $10.80
-13. Transport: $10.80
+3. Annual: $1200.00
+4. Design: $500.50
+5. Side-hustle: $500.50
+6. Monthly-utilities: $150.20
+7. Essential: $120.00
+8. Clothing: $75.00
+9. Weekend-leisure: $45.99
+10. Commute: $10.80
+11. Transport: $10.80
 
 ____________________________________________________________
 Enter command word:
@@ -259,28 +255,26 @@ Please enter the year. (Leave blank for current year)
 ____________________________________________________________
 Financial Summary for March 2025:
 
-Total Income: $6700.50
-Total Expenses: $457.49
+Total Income: $4700.50
+Total Expenses: $427.49
 
 Top Expense Categories:
-1. Food: $175.50
-2. Bills: $150.20
+1. Bills: $150.20
+2. Food: $145.50
 3. Shopping: $75.00
 
 Tags Summary:
 1. Work: $3025.50
 2. Primary: $3000.00
-3. work: $2000.00
-4. Annual: $1200.00
-5. Design: $500.50
-6. Side-hustle: $500.50
-7. Monthly-utilities: $150.20
-8. Essential: $120.00
-9. Clothing: $75.00
-10. Weekend-leisure: $45.99
-11. Dining-out: $30.00
-12. Commute: $10.80
-13. Transport: $10.80
+3. Annual: $1200.00
+4. Design: $500.50
+5. Side-hustle: $500.50
+6. Monthly-utilities: $150.20
+7. Essential: $120.00
+8. Clothing: $75.00
+9. Weekend-leisure: $45.99
+10. Commute: $10.80
+11. Transport: $10.80
 
 ____________________________________________________________
 Enter command word:
@@ -288,7 +282,7 @@ Enter command word:
 Enter a number or range to delete. (e.g., '1' or '2-5')
 > ____________________________________________________________
 Deleted transactions:
-- [Income] $3000.00 - Monthly salary [Work, Primary]
+- [Income] $1200.00 - Tax refund [Annual]
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
@@ -297,16 +291,14 @@ Please enter the start date in the format yyyy-mm-dd. (Leave blank to show all t
 Enter number of transactions to list. (Leave blank to show all transactions.)
 > ____________________________________________________________
 Here are your transactions:
-1. [Income] $2000.00 - New job payment [work] (Date created: <DATE>)
-2. [Expense][Food] $30.00 - Dinner [Dining-out] (Date created: <DATE>)
-3. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
-4. [Income] $1200.00 - Tax refund [Annual] (Date created: <DATE>)
-5. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
-6. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
-7. [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities] (Date created: <DATE>)
-8. [Expense][Transport] $10.80 - Bus fare [Transport, Commute] (Date created: <DATE>)
-9. [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure] (Date created: <DATE>)
-10. [Expense][Food] $120.00 - Groceries [Essential] (Date created: <DATE>)
+1. [Income] $3000.00 - Monthly salary [Work, Primary] (Date created: <DATE>)
+2. [Income] $500.50 - Freelance project [Side-hustle, Design] (Date created: <DATE>)
+3. [Expense][Food] $25.50 - Lunch with colleagues [Work] (Date created: <DATE>)
+4. [Expense][Shopping] $75.00 - New shoes [Clothing] (Date created: <DATE>)
+5. [Expense][Bills] $150.20 - Electricity bill [Monthly-utilities] (Date created: <DATE>)
+6. [Expense][Transport] $10.80 - Bus fare [Transport, Commute] (Date created: <DATE>)
+7. [Expense][Entertainment] $45.99 - Movie tickets [Weekend-leisure] (Date created: <DATE>)
+8. [Expense][Food] $120.00 - Groceries [Essential] (Date created: <DATE>)
 ____________________________________________________________
 Enter command word:
 > ____________________________________________________________
